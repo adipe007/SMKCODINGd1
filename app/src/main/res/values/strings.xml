@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">
+        Pertama
+    </string>
+
+    <string-array name="apapun">
+        <item>Pilih jenis kelamin</item>
+        <item>Laki laki</item>
+        <item>Perempuan</item>
+    </string-array>
+
+</resources>
